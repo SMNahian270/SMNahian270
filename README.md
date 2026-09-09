@@ -91,7 +91,7 @@ Look at my repos below — you will find projects in **NLP**, **Web Technologies
   <img src="https://raw.githubusercontent.com/SMNahian270/SMNahian270/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-> Note: the snake graphic needs a one-time GitHub Actions workflow in your profile repo to generate it (see setup notes below) — everything else on this page works immediately with no setup.
+
 
 <br/>
 
