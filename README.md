@@ -68,8 +68,8 @@ Look at my repos below — you will find projects in **NLP**, **Web Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=SMNahian270&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SMNahian270&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SMNahian270&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMNahian270&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=SMNahian270&theme=dark&hide_border=false" width="70%"/>
 
