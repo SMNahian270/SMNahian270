@@ -77,14 +77,6 @@ Look at my repos below — you will find projects in **NLP**, **Web Technologies
 
 <br/>
 
-## 🏆 Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SMNahian270&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake:
 
 <div align="center">
